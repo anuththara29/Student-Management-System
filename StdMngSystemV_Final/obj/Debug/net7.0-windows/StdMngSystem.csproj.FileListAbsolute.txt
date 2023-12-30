@@ -1,0 +1,108 @@
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.exe
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.deps.json
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.runtimeconfig.json
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.dll
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.pdb
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.csproj.AssemblyReference.cache
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem_MarkupCompile.cache
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem_MarkupCompile.lref
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\App.baml
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.g.resources
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.AssemblyInfoInputs.cache
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.AssemblyInfo.cs
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.csproj.CoreCompileInputs.cache
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.csproj.CopyComplete
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.dll
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\refint\StdMngSystem.dll
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.pdb
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.genruntimeconfig.cache
+C:\Users\Supuni\Downloads\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\ref\StdMngSystem.dll
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.exe
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.deps.json
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.runtimeconfig.json
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.dll
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.pdb
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.csproj.AssemblyReference.cache
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem_MarkupCompile.cache
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem_MarkupCompile.lref
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\App.baml
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.g.resources
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.AssemblyInfoInputs.cache
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.AssemblyInfo.cs
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.csproj.CoreCompileInputs.cache
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.csproj.CopyComplete
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.dll
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\refint\StdMngSystem.dll
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.pdb
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.genruntimeconfig.cache
+C:\Users\Sachitha\Documents\PA\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\ref\StdMngSystem.dll
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.exe
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.deps.json
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.runtimeconfig.json
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.dll
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.pdb
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem_MarkupCompile.cache
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem_MarkupCompile.lref
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\App.baml
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.g.resources
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.AssemblyInfo.cs
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.csproj.CopyComplete
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.dll
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\refint\StdMngSystem.dll
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.pdb
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.genruntimeconfig.cache
+C:\Users\ACER\Desktop\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\ref\StdMngSystem.dll
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.exe
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.deps.json
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.runtimeconfig.json
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.dll
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.pdb
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.csproj.AssemblyReference.cache
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\App.g.cs
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem_MarkupCompile.cache
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem_MarkupCompile.lref
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\App.baml
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.g.resources
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.AssemblyInfoInputs.cache
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.AssemblyInfo.cs
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.csproj.CoreCompileInputs.cache
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.csproj.CopyComplete
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.dll
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\refint\StdMngSystem.dll
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.pdb
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.genruntimeconfig.cache
+D:\Uni\Sem 3\Project\WPF-Student-Management-System-master\StdMngSystemV_Final\obj\Debug\net7.0-windows\ref\StdMngSystem.dll

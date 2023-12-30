@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f67Y6jiukn4EKmnKF2BE4ht3pGBOUngNJusZQZ7ZyiLF80SAWTLJ/ZvU0M4PJ9PbNTbkecNvD1R6AwVAK5g4oQ==",
+  "success": true,
+  "projectFilePath": "D:\\Uni\\Sem 3\\Project\\WPF-Student-Management-System-master\\StdMngSystemV_Final\\StdMngSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0-preview1\\communitytoolkit.mvvm.8.2.0-preview1.nupkg.sha512"
+  ],
+  "logs": []
+}
